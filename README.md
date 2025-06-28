@@ -10,9 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ritupan-Deka/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ritupan-Deka/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ritupan-Deka/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ritupan-Deka/DSA/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ritupan-Deka/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
