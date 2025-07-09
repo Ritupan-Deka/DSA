@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ritupan-Deka/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ritupan-Deka/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritupan-Deka/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/Ritupan-Deka/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ritupan-Deka/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritupan-Deka/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ritupan-Deka/DSA/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/Ritupan-Deka/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ritupan-Deka/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Ritupan-Deka/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
