@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ritupan-Deka/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Ritupan-Deka/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritupan-Deka/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritupan-Deka/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ritupan-Deka/DSA/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritupan-Deka/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
