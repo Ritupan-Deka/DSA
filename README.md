@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritupan-Deka/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Ritupan-Deka/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ritupan-Deka/DSA/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Ritupan-Deka/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0680-valid-palindrome-ii](https://github.com/Ritupan-Deka/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ritupan-Deka/DSA/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Ritupan-Deka/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritupan-Deka/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritupan-Deka/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
