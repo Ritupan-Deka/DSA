@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ritupan-Deka/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ritupan-Deka/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ritupan-Deka/DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Ritupan-Deka/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ritupan-Deka/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritupan-Deka/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Ritupan-Deka/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ritupan-Deka/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ritupan-Deka/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Ritupan-Deka/DSA/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ritupan-Deka/DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ritupan-Deka/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ritupan-Deka/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Ritupan-Deka/DSA/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritupan-Deka/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritupan-Deka/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
