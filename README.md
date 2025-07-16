@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ritupan-Deka/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritupan-Deka/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritupan-Deka/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1294-range-frequency-queries](https://github.com/Ritupan-Deka/DSA/tree/master/1294-range-frequency-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Ritupan-Deka/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ritupan-Deka/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1294-range-frequency-queries](https://github.com/Ritupan-Deka/DSA/tree/master/1294-range-frequency-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ritupan-Deka/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Ritupan-Deka/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ritupan-Deka/DSA/tree/master/0268-missing-number) |
+| [1294-range-frequency-queries](https://github.com/Ritupan-Deka/DSA/tree/master/1294-range-frequency-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ritupan-Deka/DSA/tree/master/0067-add-binary) |
+## Design
+|  |
+| ------- |
+| [1294-range-frequency-queries](https://github.com/Ritupan-Deka/DSA/tree/master/1294-range-frequency-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [1294-range-frequency-queries](https://github.com/Ritupan-Deka/DSA/tree/master/1294-range-frequency-queries) |
 <!---LeetCode Topics End-->
