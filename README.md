@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ritupan-Deka/DSA/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Ritupan-Deka/DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Ritupan-Deka/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ritupan-Deka/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ritupan-Deka/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ritupan-Deka/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ritupan-Deka/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ritupan-Deka/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Ritupan-Deka/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ritupan-Deka/DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ritupan-Deka/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritupan-Deka/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1294-range-frequency-queries](https://github.com/Ritupan-Deka/DSA/tree/master/1294-range-frequency-queries) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ritupan-Deka/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
